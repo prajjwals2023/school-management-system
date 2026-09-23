@@ -60,13 +60,3 @@ Open your browser at:
 
 ---
 
-## 🔑 Demo Credentials
-
-| Role | Email | Password | Scope |
-| :--- | :--- | :--- | :--- |
-| **Super Admin** | `admin@school.com` | `password123` | System Accounts & Class Management |
-| **Principal** | `principal@school.com` | `password123` | Classes 1–10 Full Oversight |
-| **Teacher (Class 5-A)** | `rahul@school.com` | `password123` | Class 5-A Only |
-| **Teacher (Class 10-A)** | `priya@school.com` | `password123` | Class 10-A Only |
-
-*(The login screen also features 1-click quick sign-in buttons for instant demo access).*
